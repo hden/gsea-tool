@@ -1,0 +1,18 @@
+{
+  "name": "gsea-tool",
+  "version": "0.0.1",
+  "description": "GSEA helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "",
+  "author": "Hao-kang Den",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "~1.4.2"
+  },
+  "dependencies": {
+    "underscore": "~1.4.3"
+  }
+}
