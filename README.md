@@ -13,3 +13,5 @@ Underscore.js `npm install underscore`
 command-line option
 ## Read more at
 http://www.broadinstitute.org/gsea/index.jsp
+## Licence
+MIT
